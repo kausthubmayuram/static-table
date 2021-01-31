@@ -10,4 +10,5 @@ Further versions would include option to configure the format which the module s
 Stylings are not included for the table so as to keep/provide freedom to the users to customise as the require.
 
 
-
+## License
+This package uses Standard MIT License

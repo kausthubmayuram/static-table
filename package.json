@@ -1,12 +1,12 @@
 {
   "name": "static-table",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "author": "Kausthub Mayuram",
-  "homepage": "https://github.com/monatheoctocat/my_package",
+  "homepage": "https://github.com/kausthubmayuram/static-table",
   "repository": {
     "type": "git",
-    "url": "https://github.com/monatheoctocat/my_package.git"
+    "url": "https://github.com/kausthubmayuram/static-table.git"
   },
   "peerDependencies": {
     "@angular/common": "^11.0.9",
