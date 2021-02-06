@@ -8,6 +8,18 @@
     "type": "git",
     "url": "https://github.com/kausthubmayuram/static-table.git"
   },
+  "keywords": [
+    "table",
+    "Angular",
+    "Angular 2",
+    "Angular 6",
+    "Angular 8",
+    "Angular 9",
+    "Angular 10",
+    "Angular 11",
+    "Dynamic Table",
+    "customizable"
+  ],
   "peerDependencies": {
     "@angular/common": "^11.0.9",
     "@angular/core": "^11.0.9"
