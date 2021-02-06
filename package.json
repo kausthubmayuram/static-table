@@ -1,6 +1,6 @@
 {
   "name": "static-table",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "author": "Kausthub Mayuram",
   "homepage": "https://github.com/kausthubmayuram/static-table",
@@ -21,8 +21,8 @@
     "customizable"
   ],
   "peerDependencies": {
-    "@angular/common": "^11.0.9",
-    "@angular/core": "^11.0.9"
+    "@angular/common": "^2.0.0",
+    "@angular/core": "^2.0.0"
   },
   "dependencies": {
     "tslib": "^2.0.0"
