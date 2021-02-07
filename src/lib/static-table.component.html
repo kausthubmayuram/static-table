@@ -1,5 +1,5 @@
-<div class="static-table-container">
-  <table>
+<div class="static-table-container" [ngClass]="[fixedHeader ? 'fixed-header' : '', 'content-'+contentAlign, 'header-'+headerAlign]" id="{{tableId}}">
+  <table >
     <thead>
       <tr>
         <th *ngFor="let item of columns">{{item}}</th>

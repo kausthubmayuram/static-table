@@ -1,8 +1,42 @@
-.static-table-container{
-    overflow-y: scroll;
-    height: 150px;
-  }
-  .static-table-container th{
-    position: sticky;
-    top: 0;
+/* Gerneric Stylings */
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
 }
+
+
+
+/* Custom Stylings for the Feature Sepecific*/
+
+/* Fixed Header */
+
+.static-table-container.fixed-header{
+  overflow-y: scroll;
+  height: 150px;
+}
+.fixed-header th{
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
+
+
+/* Row Data Alignment */
+
+.content-left td,.header-left th{
+  text-align: left; 
+}
+
+.content-center td, .header-center th{
+  text-align: center; 
+}
+
+.content-right td, .header-right th{
+  text-align: right; 
+}
+
+/* Header Data Alignment */
+
+
+
