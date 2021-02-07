@@ -1,0 +1,8 @@
+.static-table-container{
+    overflow-y: scroll;
+    height: 150px;
+  }
+  .static-table-container th{
+    position: sticky;
+    top: 0;
+}
